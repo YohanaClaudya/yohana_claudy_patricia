@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Warna latar belakang */
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    text-align: center;
+    color: #333;
+}
+
+section {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+h2 {
+    color: #007bff;
+}
+
+strong {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
